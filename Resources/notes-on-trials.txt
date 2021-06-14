@@ -1,0 +1,77 @@
+layer1 8 relu
+layer2 5 relu
+use case
+1200
+1000
+
+66.9
+53.1
+
+layer1 8 relu
+layer2 5 relu
+none removed
+1200
+1000
+
+54.4
+
+layer1 8 relu
+layer2 5 relu
+use case & income amt
+1200
+1000
+
+63.7
+
+
+layer1 8 relu
+layer2 5 relu
+income amt
+1200
+1000
+
+49.7
+
+
+layer1 8 relu
+layer2 5 relu
+ask amt
+1200
+1000
+
+60
+
+layer1 8 relu
+layer2 5 relu
+special considerations
+1200
+1000
+
+53.4
+
+
+{'activation': 'tanh',
+ 'first_units': 9,
+ 'num_layers': 1,
+ 'units_0': 5,
+ 'units_1': 1,
+ 'units_2': 1,
+ 'units_3': 3,
+ 'units_4': 9,
+ 'units_5': 7,
+ 'tuner/epochs': 20,
+ 'tuner/initial_epoch': 0,
+ 'tuner/bracket': 0,
+ 'tuner/round': 0}
+72.7
+
+first test
+
+second
+no use_case
+
+third
+no status
+
+fourth
+no status 72.7
